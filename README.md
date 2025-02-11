@@ -16,8 +16,8 @@ Here are some of my featured projects:
 - 🔹 **More projects coming soon!** 🚀
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio](#) *(Coming Soon!)*
-- 💼 [LinkedIn](#)
+- 🌐 [Portfolio]](https://jvorte.github.io/Dimitris_Vortelinas/)
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
 - 📧 Email: your.email@example.com
 
 ## 📊 GitHub Stats

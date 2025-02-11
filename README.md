@@ -1,4 +1,4 @@
-# Hi there, I'm jvorte! 👋
+# Hi there, I'm D.Vortelinas! 👋
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** with experience in PHP, Laravel, and modern JavaScript frameworks like **React** and **Node.js**. Currently, I'm focusing on building dynamic web applications using **React, Vite, and Tailwind CSS**. 
